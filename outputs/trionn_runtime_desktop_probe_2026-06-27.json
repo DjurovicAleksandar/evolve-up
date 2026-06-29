@@ -1,0 +1,5187 @@
+{
+  "metrics": {
+    "bodyHeight": 6573,
+    "innerHeight": 900,
+    "innerWidth": 1440,
+    "scrollHeight": 6573,
+    "sections": [
+      {
+        "height": 900,
+        "left": 0,
+        "opacity": "1",
+        "selector": "main-banner relative min-h-dvh pt-25 lg:pt-30 pb-14 flex w-full ",
+        "text": "Designed tomean something.Start a Projecthold to blastDare ⚡ to touch the lines.Est. 201214+ years s",
+        "top": 0,
+        "transform": "none",
+        "width": 1440
+      },
+      {
+        "height": 900,
+        "left": 0,
+        "opacity": "1",
+        "selector": "home-about  relative z-3 pt-20 lg:pt-37.5 pb-20 min-h-dvh flex flex-co",
+        "text": "aboutTrionn is an independent digital studio crafting meaningful brand experiences through strategy,",
+        "top": 900,
+        "transform": "none",
+        "width": 1440
+      },
+      {
+        "height": 900,
+        "left": 0,
+        "opacity": "1",
+        "selector": "#vision-section",
+        "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactInspireinnovateImpactIn",
+        "top": 1800,
+        "transform": "none",
+        "width": 1440
+      },
+      {
+        "height": 1090,
+        "left": 0,
+        "opacity": "1",
+        "selector": "#keyfacts-section",
+        "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on top design platforms w",
+        "top": 2700,
+        "transform": "none",
+        "width": 1440
+      },
+      {
+        "height": 900,
+        "left": 720,
+        "opacity": "1",
+        "selector": "js-work-card relative flex w-[calc(100%-3rem)] md:w-[50%] md:max-w-[50",
+        "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Explore project",
+        "top": 3790,
+        "transform": "none",
+        "width": 720
+      },
+      {
+        "height": 900,
+        "left": 1440,
+        "opacity": "1",
+        "selector": "js-work-card relative flex w-[calc(100%-3rem)] md:w-[50%] md:max-w-[50",
+        "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and culture.Explore project",
+        "top": 3790,
+        "transform": "none",
+        "width": 720
+      },
+      {
+        "height": 900,
+        "left": 2160,
+        "opacity": "1",
+        "selector": "js-work-card relative flex w-[calc(100%-3rem)] md:w-[50%] md:max-w-[50",
+        "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore project",
+        "top": 3790,
+        "transform": "none",
+        "width": 720
+      },
+      {
+        "height": 900,
+        "left": 2880,
+        "opacity": "1",
+        "selector": "js-work-card relative flex w-[calc(100%-3rem)] md:w-[50%] md:max-w-[50",
+        "text": "Discover our complete collection of digital experiences, brands, and platforms.view all projects",
+        "top": 3790,
+        "transform": "none",
+        "width": 720
+      },
+      {
+        "height": 900,
+        "left": 0,
+        "opacity": "1",
+        "selector": "#trionn-services",
+        "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, automate workflows, an",
+        "top": 3790,
+        "transform": "none",
+        "width": 1440
+      },
+      {
+        "height": 328,
+        "left": 0,
+        "opacity": "1",
+        "selector": "svc-card z-10 absolute top-0 left-0 will-change-[transform,opacity] tr",
+        "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, automate workflows, an",
+        "top": 3790,
+        "transform": "none",
+        "width": 407
+      },
+      {
+        "height": 328,
+        "left": 0,
+        "opacity": "1",
+        "selector": "svc-card z-10 absolute top-0 left-0 will-change-[transform,opacity] tr",
+        "text": "Web DevelopmentCustom web development delivered with a product-focused, design-conscious approach.",
+        "top": 3790,
+        "transform": "none",
+        "width": 407
+      },
+      {
+        "height": 328,
+        "left": 0,
+        "opacity": "1",
+        "selector": "svc-card z-10 absolute top-0 left-0 will-change-[transform,opacity] tr",
+        "text": "Product DesignThoughtful product design that captures attention, deepens engagement, and builds last",
+        "top": 3790,
+        "transform": "none",
+        "width": 407
+      },
+      {
+        "height": 328,
+        "left": 0,
+        "opacity": "1",
+        "selector": "svc-card absolute z-10 top-0 left-0 will-change-[transform,opacity] tr",
+        "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attract users and keep t",
+        "top": 3790,
+        "transform": "none",
+        "width": 407
+      },
+      {
+        "height": 328,
+        "left": 0,
+        "opacity": "1",
+        "selector": "svc-card absolute z-10 top-0 left-0 will-change-[transform,opacity] tr",
+        "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and experiences that con",
+        "top": 3790,
+        "transform": "none",
+        "width": 407
+      },
+      {
+        "height": 328,
+        "left": 0,
+        "opacity": "1",
+        "selector": "svc-card absolute z-10 top-0 left-0 will-change-[transform,opacity] tr",
+        "text": "BrandingImpactful branding positions startups for success through credibility, clarity, and lasting ",
+        "top": 3790,
+        "transform": "none",
+        "width": 396
+      },
+      {
+        "height": 89,
+        "left": 337,
+        "opacity": "1",
+        "selector": "block mrquee-text uppercase transition-colors duration-500 ",
+        "text": "A.I.",
+        "top": 4070,
+        "transform": "none",
+        "width": 767
+      },
+      {
+        "height": 89,
+        "left": 337,
+        "opacity": "1",
+        "selector": "block mrquee-text uppercase transition-colors duration-500 ",
+        "text": "Design",
+        "top": 4159,
+        "transform": "none",
+        "width": 767
+      },
+      {
+        "height": 89,
+        "left": 337,
+        "opacity": "1",
+        "selector": "block mrquee-text uppercase transition-colors duration-500 ",
+        "text": "Development",
+        "top": 4248,
+        "transform": "none",
+        "width": 767
+      },
+      {
+        "height": 89,
+        "left": 337,
+        "opacity": "1",
+        "selector": "block mrquee-text uppercase transition-colors duration-500 ",
+        "text": "Branding",
+        "top": 4336,
+        "transform": "none",
+        "width": 767
+      }
+    ],
+    "title": "TRIONN | AI-Powered Creative Design & Development Studio in India",
+    "url": "https://trionn.com/"
+  },
+  "samples": [
+    {
+      "centerText": "Designed tomean something.Start a Projecthold to blastDare ⚡ to touch the lines.Est. 201214+ years shaping digital direction.Websites, AI products, brands, and systems built for clarity, scale and impact.",
+      "progress": 0,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean something.Start a Projecthold to blastDare ⚡ to touch the lines.",
+              "top": 0,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": 900,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 1800,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1090,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 3600,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 4690,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 4690,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 4690,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 4690,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 4857,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 5382,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 5382,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 5602,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 818,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 0.9084, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 4690,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 4690,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 4970,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 5059,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 5148,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 5236,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 41,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 3903,
+              "transform": "none",
+              "width": 404
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 22,
+              "left": 910,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 3912,
+              "transform": "none",
+              "width": 301
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 4690,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 4690,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 0
+    },
+    {
+      "centerText": "aboutTrionn is an independent digital studio crafting meaningful brand experiences through strategy, design, and technology.We design for longevity clarity first, craft always, built to scale.Our mission is to make technology feel human by ",
+      "progress": 0.023,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean something.Start a Projecthold to blastDare ⚡ to touch the lines.",
+              "top": -567,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": 333,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 1233,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1090,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 3033,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 4123,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 4123,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 4123,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 4123,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 4290,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 4815,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 4815,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 5035,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 4123,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 4123,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 4403,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 4492,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 4581,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 4669,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 41,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 3336,
+              "transform": "none",
+              "width": 404
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 22,
+              "left": 910,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 3345,
+              "transform": "none",
+              "width": 301
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 4123,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 4123,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 567
+    },
+    {
+      "centerText": "We design for longevity clarity first, craft always, built to scale.Our mission is to make technology feel human by designing digital products that are intuitive, purposeful, and meaningful to people.more about us",
+      "progress": 0.046,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean depth.Start a Projecthold to blastDare ⚡ to touch the lines.Est.",
+              "top": -1135,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -235,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 665,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1090,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 2465,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 3555,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 3555,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 3555,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 3555,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 3722,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 4247,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 4247,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 4467,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 3555,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 3555,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 3835,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 3924,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 4013,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 4101,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 41,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2768,
+              "transform": "none",
+              "width": 404
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 22,
+              "left": 910,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 2777,
+              "transform": "none",
+              "width": 301
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 3555,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 3555,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 1135
+    },
+    {
+      "centerText": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactInspireinnovateImpactInspireinnovateImpact✦ From idea to outcome.",
+      "progress": 0.069,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean depth.Start a Projecthold to blastDare ⚡ to touch the lines.Est.",
+              "top": -1702,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -802,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 98,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1090,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 1898,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 2988,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 2988,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 2988,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 2988,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 3155,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 3680,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 3680,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 3900,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 2988,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 2988,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 3268,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 3357,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 3446,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 3534,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 41,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2201,
+              "transform": "none",
+              "width": 404
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 22,
+              "left": 910,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 2210,
+              "transform": "none",
+              "width": 301
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 2988,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 2988,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 1702
+    },
+    {
+      "centerText": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactInspireinnovateImpactInspireinnovateImpact✦ From idea to outcome.",
+      "progress": 0.092,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean purpose.Start a Projecthold to blastDare ⚡ to touch the lines.Es",
+              "top": -2269,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -1369,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "fixed",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1090,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 1331,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 2421,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 2421,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 2421,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 2421,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 2588,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 3113,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 3113,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 3333,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 2421,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 2421,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 2701,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 2790,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 2879,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 2967,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 41,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1634,
+              "transform": "none",
+              "width": 404
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 22,
+              "left": 910,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 1643,
+              "transform": "none",
+              "width": 301
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 2421,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 2421,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 2269
+    },
+    {
+      "centerText": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactInspireinnovateImpactInspireinnovateImpact✦ From idea to outcome.",
+      "progress": 0.115,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean purpose.Start a Projecthold to blastDare ⚡ to touch the lines.Es",
+              "top": -2837,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -1937,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "fixed",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1079,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 763,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 1842,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 1842,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 1842,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 1842,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 2008,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 2533,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 2533,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 2754,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 1842,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 1842,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 2122,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 2211,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 2300,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 2388,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 41,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1066,
+              "transform": "none",
+              "width": 404
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 22,
+              "left": 910,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 1075,
+              "transform": "none",
+              "width": 301
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 1842,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 1842,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 2837
+    },
+    {
+      "centerText": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on top design platforms worldwide.05001234567890123456789+projects completed01.5K0123456789.0123456789K+90% of our clients seek our services for a second project.our",
+      "progress": 0.138,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean intention.Start a Projecthold to blastDare ⚡ to touch the lines.",
+              "top": -3404,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -2504,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "fixed",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1079,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": 196,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 1275,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 1275,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 1275,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 1275,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 1441,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 1966,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 1966,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 2187,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 1275,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 1275,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 1555,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 1644,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 1733,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 1821,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 404,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 499,
+              "transform": "none",
+              "width": 373
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 125,
+              "left": 916,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 553,
+              "transform": "none",
+              "width": 300
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 1275,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 1275,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 3404
+    },
+    {
+      "centerText": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on top design platforms worldwide.05001234567890123456789+projects completed01.5K0123456789.0123456789K+90% of our clients seek our services for a second project.our",
+      "progress": 0.168,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean something.Start a Projecthold to blastDare ⚡ to touch the lines.",
+              "top": -3971,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -3071,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": -371,
+              "transform": "matrix(1, 0, 0, 1, 0, 1800)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1079,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": -371,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 708,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 708,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 708,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 708,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 874,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 1399,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 1399,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 1620,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 708,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 708,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 988,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 1077,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 1166,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 1254,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 439,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": -68,
+              "transform": "none",
+              "width": 356
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 239,
+              "left": 954,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 18,
+              "transform": "none",
+              "width": 287
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 708,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 708,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 3971
+    },
+    {
+      "centerText": "Selected work & explorationsview all projectsMyWorker AIAI platform simplifying hiring, management, and workforce scaling.Explore projectPulse StudioA motion-led studio website showcasing artists, projects, and culture.Explore projectLoftlo",
+      "progress": 0.192,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean depth.Start a Projecthold to blastDare ⚡ to touch the lines.Est.",
+              "top": -4538,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -3638,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": -938,
+              "transform": "matrix(1, 0, 0, 1, 0, 1800)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1079,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": -938,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 141,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 141,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 141,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 141,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 307,
+              "transform": "matrix(1, 0, 0, 1, 0, 25.0547)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 832,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 832,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 1053,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 720,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1440,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2160,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2880,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 141,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 421,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 510,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 599,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 687,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 439,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": -635,
+              "transform": "none",
+              "width": 356
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 239,
+              "left": 954,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": -549,
+              "transform": "none",
+              "width": 287
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 141,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 141,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 4538
+    },
+    {
+      "centerText": "",
+      "progress": 0.215,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean purpose.Start a Projecthold to blastDare ⚡ to touch the lines.Es",
+              "top": -5106,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -4206,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": -1506,
+              "transform": "matrix(1, 0, 0, 1, 0, 1800)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1079,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": -1506,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 206,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 926,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1646,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 2366,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": 206,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 926,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 239,
+              "transform": "matrix(1, 0, 0, 1, 0, 97.4624)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1646,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 691,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 2366,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 912,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 206,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 900,
+              "left": 926,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1646,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 2366,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 0,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 280,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 369,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 458,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 546,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 439,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": -1203,
+              "transform": "none",
+              "width": 356
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 239,
+              "left": 954,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": -1117,
+              "transform": "none",
+              "width": 287
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 5106
+    },
+    {
+      "centerText": "",
+      "progress": 0.235,
+      "selectors": [
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Designed tomean intention.Start a Projecthold to blastDare ⚡ to touch the lines.",
+              "top": -5560,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".main-banner"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "aboutTrionn is an independent digital studio crafting meaningful brand experienc",
+              "top": -4660,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": ".home-about"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Focused vision. Measured execution.InspireinnovateImpactInspireinnovateImpactIns",
+              "top": -1960,
+              "transform": "matrix(1, 0, 0, 1, 0, 1800)",
+              "width": 1440
+            }
+          ],
+          "selector": "#vision-section"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 1079,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Key factsA snapshot of our experience and impact.Featured & AwardsFeatured on to",
+              "top": -1960,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#keyfacts-section"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -340,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 380,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1100,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            },
+            {
+              "height": 900,
+              "left": 1820,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 0,
+              "transform": "none",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 617,
+              "left": -340,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "MyWorker AIAI platform simplifying hiring, management, and workforce scaling.Exp",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 380,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Pulse StudioA motion-led studio website showcasing artists, projects, and cultur",
+              "top": 141,
+              "transform": "matrix(1, 0, 0, 1, 0, 0.0042)",
+              "width": 720
+            },
+            {
+              "height": 617,
+              "left": 1100,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "LoftloomSeamless real estate platform for effortless property discovery.Explore ",
+              "top": 359,
+              "transform": "matrix(1, 0, 0, 1, 0, 217.488)",
+              "width": 720
+            },
+            {
+              "height": 176,
+              "left": 1820,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Discover our complete collection of digital experiences, brands, and platforms.v",
+              "top": 912,
+              "transform": "matrix(1, 0, 0, 1, 0, 550)",
+              "width": 720
+            }
+          ],
+          "selector": ".js-work-card-inner"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -340,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 900,
+              "left": 380,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1100,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            },
+            {
+              "height": 0,
+              "left": 1820,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 0, 0, -450)",
+              "width": 1
+            }
+          ],
+          "selector": ".js-card-line"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "relative",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 0,
+              "transform": "none",
+              "width": 1440
+            }
+          ],
+          "selector": "#trionn-services"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance products, au",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Web DevelopmentCustom web development delivered with a product-focused, design-c",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Product DesignThoughtful product design that captures attention, deepens engagem",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "Website & Mobile DesignHigh-quality website and app experiences designed to attr",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "WordPress DevelopmentWordPress development focused on performance, clarity, and ",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            },
+            {
+              "height": 288,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "BrandingImpactful branding positions startups for success through credibility, c",
+              "top": 0,
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "width": 605
+            }
+          ],
+          "selector": ".svc-card"
+        },
+        {
+          "count": 4,
+          "nodes": [
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "A.I.",
+              "top": 280,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Design",
+              "top": 369,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Development",
+              "top": 458,
+              "transform": "none",
+              "width": 767
+            },
+            {
+              "height": 89,
+              "left": 337,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "Branding",
+              "top": 546,
+              "transform": "none",
+              "width": 767
+            }
+          ],
+          "selector": "[data-line]"
+        },
+        {
+          "count": 6,
+          "nodes": [
+            {
+              "height": 439,
+              "left": 164,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": -1657,
+              "transform": "none",
+              "width": 356
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 239,
+              "left": 954,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": -1571,
+              "transform": "none",
+              "width": 287
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "normal",
+              "opacity": "1",
+              "position": "static",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            },
+            {
+              "height": 900,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+              "width": 1440
+            },
+            {
+              "height": 0,
+              "left": 0,
+              "mixBlend": "screen",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 0
+            }
+          ],
+          "selector": "video"
+        },
+        {
+          "count": 1,
+          "nodes": [
+            {
+              "height": 900,
+              "left": -80,
+              "mixBlend": "normal",
+              "opacity": "0",
+              "position": "absolute",
+              "text": "",
+              "top": 0,
+              "transform": "none",
+              "width": 1600
+            }
+          ],
+          "selector": "#c"
+        }
+      ],
+      "y": 5560
+    }
+  ]
+}

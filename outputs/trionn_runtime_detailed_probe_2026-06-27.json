@@ -1,0 +1,670 @@
+[
+  {
+    "cards": [
+      {
+        "index": 0,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 655,
+          "y": 4253
+        },
+        "text": "MyWorker AIAI platform simplifying hiring, management, and w"
+      },
+      {
+        "index": 1,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 1309,
+          "y": 4253
+        },
+        "text": "Pulse StudioA motion-led studio website showcasing artists, "
+      },
+      {
+        "index": 2,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 1964,
+          "y": 4253
+        },
+        "text": "LoftloomSeamless real estate platform for effortless propert"
+      },
+      {
+        "index": 3,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 2618,
+          "y": 4253
+        },
+        "text": "Discover our complete collection of digital experiences, bra"
+      }
+    ],
+    "centerSection": null,
+    "label": "hero",
+    "scrollY": 0,
+    "serviceLines": [
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 4508
+        },
+        "text": "A.I.",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 4589
+        },
+        "text": "Design",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 4669
+        },
+        "text": "Development",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 4750
+        },
+        "text": "Branding",
+        "transform": "none"
+      }
+    ],
+    "serviceMedia": [
+      {
+        "id": "c",
+        "opacity": "0",
+        "rect": {
+          "h": 818,
+          "w": 1454,
+          "x": -72,
+          "y": 4253
+        },
+        "src": "https://trionn.com/images/stone/frame_0001.webp",
+        "tag": "img"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 818,
+          "w": 1309,
+          "x": 0,
+          "y": 4253
+        },
+        "src": "https://trionn.com/video/homepage-services-video.mp4",
+        "tag": "video"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 0,
+          "w": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video_m.mp4",
+        "tag": "video"
+      }
+    ],
+    "services": {
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "h": 818,
+        "w": 1309,
+        "x": 0,
+        "y": 4253
+      },
+      "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance pr",
+      "transform": null
+    },
+    "work": {
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "h": 818,
+        "w": 1309,
+        "x": 0,
+        "y": 4253
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "workMover": {
+      "opacity": "1",
+      "position": "absolute",
+      "rect": {
+        "h": 818,
+        "w": 1309,
+        "x": 0,
+        "y": 4253
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  },
+  {
+    "cards": [
+      {
+        "index": 0,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 598,
+          "y": 1
+        },
+        "text": "MyWorker AIAI platform simplifying hiring, management, and w"
+      },
+      {
+        "index": 1,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 1253,
+          "y": 1
+        },
+        "text": "Pulse StudioA motion-led studio website showcasing artists, "
+      },
+      {
+        "index": 2,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 1908,
+          "y": 1
+        },
+        "text": "LoftloomSeamless real estate platform for effortless propert"
+      },
+      {
+        "index": 3,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 2563,
+          "y": 1
+        },
+        "text": "Discover our complete collection of digital experiences, bra"
+      }
+    ],
+    "centerSection": "work-section",
+    "label": "work-start",
+    "scrollY": 4300,
+    "serviceLines": [
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 255
+        },
+        "text": "A.I.",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 336
+        },
+        "text": "Design",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 417
+        },
+        "text": "Development",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 497
+        },
+        "text": "Branding",
+        "transform": "none"
+      }
+    ],
+    "serviceMedia": [
+      {
+        "id": "c",
+        "opacity": "0",
+        "rect": {
+          "h": 818,
+          "w": 1454,
+          "x": -72,
+          "y": 1
+        },
+        "src": "https://trionn.com/images/stone/frame_0001.webp",
+        "tag": "img"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 819,
+          "w": 1310,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video.mp4",
+        "tag": "video"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 0,
+          "w": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video_m.mp4",
+        "tag": "video"
+      }
+    ],
+    "services": {
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance pr",
+      "transform": null
+    },
+    "work": {
+      "opacity": "1",
+      "position": "fixed",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "workMover": {
+      "opacity": "1",
+      "position": "absolute",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  },
+  {
+    "cards": [
+      {
+        "index": 0,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -1648,
+          "y": 1
+        },
+        "text": "MyWorker AIAI platform simplifying hiring, management, and w"
+      },
+      {
+        "index": 1,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -993,
+          "y": 1
+        },
+        "text": "Pulse StudioA motion-led studio website showcasing artists, "
+      },
+      {
+        "index": 2,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -338,
+          "y": 1
+        },
+        "text": "LoftloomSeamless real estate platform for effortless propert"
+      },
+      {
+        "index": 3,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": 317,
+          "y": 1
+        },
+        "text": "Discover our complete collection of digital experiences, bra"
+      }
+    ],
+    "centerSection": "work-section",
+    "label": "work-mid",
+    "scrollY": 6200,
+    "serviceLines": [
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 255
+        },
+        "text": "A.I.",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 336
+        },
+        "text": "Design",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 417
+        },
+        "text": "Development",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 497
+        },
+        "text": "Branding",
+        "transform": "none"
+      }
+    ],
+    "serviceMedia": [
+      {
+        "id": "c",
+        "opacity": "0",
+        "rect": {
+          "h": 818,
+          "w": 1454,
+          "x": -72,
+          "y": 1
+        },
+        "src": "https://trionn.com/images/stone/frame_0001.webp",
+        "tag": "img"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 819,
+          "w": 1310,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video.mp4",
+        "tag": "video"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 0,
+          "w": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video_m.mp4",
+        "tag": "video"
+      }
+    ],
+    "services": {
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance pr",
+      "transform": null
+    },
+    "work": {
+      "opacity": "1",
+      "position": "fixed",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "workMover": {
+      "opacity": "1",
+      "position": "absolute",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": -332,
+        "y": 0
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, -331.784, 0)"
+    }
+  },
+  {
+    "cards": [
+      {
+        "index": 0,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -2625,
+          "y": 1
+        },
+        "text": "MyWorker AIAI platform simplifying hiring, management, and w"
+      },
+      {
+        "index": 1,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -1970,
+          "y": 1
+        },
+        "text": "Pulse StudioA motion-led studio website showcasing artists, "
+      },
+      {
+        "index": 2,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -1315,
+          "y": 1
+        },
+        "text": "LoftloomSeamless real estate platform for effortless propert"
+      },
+      {
+        "index": 3,
+        "rect": {
+          "h": 818,
+          "w": 655,
+          "x": -660,
+          "y": 1
+        },
+        "text": "Discover our complete collection of digital experiences, bra"
+      }
+    ],
+    "centerSection": "trionn-services",
+    "label": "services-deep",
+    "scrollY": 12200,
+    "serviceLines": [
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 255
+        },
+        "text": "A.I.",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 336
+        },
+        "text": "Design",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 417
+        },
+        "text": "Development",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "rect": {
+          "h": 81,
+          "w": 697,
+          "x": 306,
+          "y": 497
+        },
+        "text": "Branding",
+        "transform": "none"
+      }
+    ],
+    "serviceMedia": [
+      {
+        "id": "c",
+        "opacity": "1",
+        "rect": {
+          "h": 818,
+          "w": 1454,
+          "x": -72,
+          "y": 1
+        },
+        "src": "https://trionn.com/images/stone/frame_0288.webp",
+        "tag": "img"
+      },
+      {
+        "id": null,
+        "opacity": "0.5",
+        "rect": {
+          "h": 819,
+          "w": 1310,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video.mp4",
+        "tag": "video"
+      },
+      {
+        "id": null,
+        "opacity": "0",
+        "rect": {
+          "h": 0,
+          "w": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "https://trionn.com/video/homepage-services-video_m.mp4",
+        "tag": "video"
+      }
+    ],
+    "services": {
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "AI & Intelligent AutomationAI-powered solutions designed to enhance pr",
+      "transform": null
+    },
+    "work": {
+      "opacity": "1",
+      "position": "fixed",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": 0,
+        "y": 0
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "workMover": {
+      "opacity": "1",
+      "position": "absolute",
+      "rect": {
+        "h": 819,
+        "w": 1310,
+        "x": -1309,
+        "y": 0
+      },
+      "text": "Selected work & explorationsview all projectsMyWorker AIAI platform si",
+      "transform": "matrix(1, 0, 0, 1, -1309, 0)"
+    }
+  }
+]
