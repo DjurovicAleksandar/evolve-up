@@ -1,4 +1,7 @@
 import type { Metadata } from "next";
+import "@fontsource-variable/space-grotesk/index.css";
+import "@fontsource-variable/archivo/index.css";
+import "@fontsource-variable/jetbrains-mono/index.css";
 import "locomotive-scroll/dist/locomotive-scroll.css";
 import { SmoothScroll } from "@/components/SmoothScroll";
 import "./globals.css";

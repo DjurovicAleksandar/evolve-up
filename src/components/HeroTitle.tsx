@@ -41,7 +41,7 @@ export function HeroTitle({
 
   return (
     <h1
-      className={`mt-7 max-w-5xl text-[clamp(3rem,8.2vw,9rem)] leading-[0.86] tracking-normal text-white ${
+      className={`hero-title-display mt-7 max-w-5xl text-[clamp(3rem,8vw,8.7rem)] leading-[0.88] tracking-normal text-white ${
         ready ? "hero-title-ready" : ""
       }`}
     >

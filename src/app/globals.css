@@ -2,25 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "Neue Haas Display";
-  src: url("/fonts/neue-haas-display-roman.woff2") format("woff2");
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400 700;
-}
-
-@font-face {
-  font-family: "Martian Mono";
-  src: url("/fonts/martian-mono-light.woff2") format("woff2");
-  font-display: swap;
-  font-style: normal;
-  font-weight: 300 700;
-}
-
 :root {
-  --font-sans: "Helvetica Neue", "Neue Haas Display", Arial, sans-serif;
-  --font-mono: "SFMono-Regular", "Martian Mono", ui-monospace, monospace;
+  --font-sans: "Space Grotesk Variable", "Space Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-display: "Archivo Variable", "Archivo", var(--font-sans);
+  --font-mono: "JetBrains Mono Variable", "JetBrains Mono", "SFMono-Regular", ui-monospace, monospace;
   color-scheme: dark;
 }
 
@@ -38,11 +23,21 @@ body {
   background: #050505;
   color: #f4f1ea;
   font-family: var(--font-sans);
+  font-optical-sizing: auto;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+.hero-title-display {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 104;
+  font-weight: 680;
 }
 
 ::selection {
@@ -71,8 +66,8 @@ nextjs-portal,
 
 .hero-fade {
   background:
-    radial-gradient(circle at 62% 44%, rgba(255, 106, 4, 0.13), transparent 26%),
-    radial-gradient(circle at 66% 55%, rgba(16, 138, 237, 0.12), transparent 32%),
+    radial-gradient(circle at 58% 50%, rgba(255, 106, 4, 0.11), transparent 28%),
+    radial-gradient(circle at 58% 55%, rgba(16, 138, 237, 0.1), transparent 36%),
     linear-gradient(90deg, #050505 0%, rgba(5, 5, 5, 0.82) 34%, rgba(5, 5, 5, 0.6) 100%);
 }
 
@@ -84,112 +79,11 @@ nextjs-portal,
   transform: rotateX(68deg) rotateZ(-15deg);
 }
 
-.brand-object {
-  transform-style: preserve-3d;
-  animation: float-object 9s ease-in-out infinite;
-}
-
-.brand-object::before,
-.brand-object::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  pointer-events: none;
-  border-radius: 50%;
-  transform-style: preserve-3d;
-}
-
-.brand-object::before {
-  z-index: 0;
-  width: 94%;
-  height: 54%;
-  border: 1px solid rgba(244, 241, 234, 0.18);
-  transform: translate(-50%, -50%) rotateX(66deg) rotateZ(-12deg) translateZ(10px);
-}
-
-.brand-object::after {
-  z-index: 4;
-  width: 68%;
-  height: 38%;
-  border: 1px solid rgba(244, 241, 234, 0.14);
-  transform: translate(-50%, -50%) rotateX(64deg) rotateZ(18deg) translateZ(128px);
-}
-
-.hero-visual[data-blasting="true"] .brand-object {
-  animation-duration: 2.2s;
-  filter: drop-shadow(0 0 36px rgba(255, 106, 4, 0.34));
-}
-
-.brand-infinity-loop {
-  position: absolute;
-  top: 50%;
-  z-index: 3;
-  width: 43%;
-  height: 28%;
-  border: 3px solid rgba(244, 241, 234, 0.55);
-  border-radius: 999px;
-  box-shadow:
-    0 0 42px rgba(255, 106, 4, 0.2),
-    inset 0 0 32px rgba(16, 138, 237, 0.16);
-  transform-style: preserve-3d;
-}
-
-.brand-infinity-loop-left {
-  left: 18%;
-  transform: translateY(-50%) rotateZ(34deg) rotateX(58deg) rotateY(-12deg) translateZ(98px);
-  border-color: rgba(255, 106, 4, 0.72);
-}
-
-.brand-infinity-loop-right {
-  right: 18%;
-  transform: translateY(-50%) rotateZ(-34deg) rotateX(58deg) rotateY(12deg) translateZ(92px);
-  border-color: rgba(16, 138, 237, 0.66);
-}
-
-.brand-infinity-cross {
-  position: absolute;
-  left: 38%;
-  top: 46%;
-  z-index: 5;
-  width: 24%;
-  height: 8%;
-  border-radius: 999px;
-  background: linear-gradient(90deg, rgba(255, 106, 4, 0.62), rgba(244, 241, 234, 0.86), rgba(16, 138, 237, 0.62));
-  box-shadow: 0 0 46px rgba(244, 241, 234, 0.22);
-  transform: rotateZ(-9deg) rotateX(54deg) translateZ(122px);
-}
-
-.brand-plane {
-  position: absolute;
-  inset: 22%;
-  z-index: 1;
-  border: 1px solid rgba(244, 241, 234, 0.1);
-  background:
-    linear-gradient(135deg, rgba(255, 106, 4, 0.34), transparent 44%),
-    linear-gradient(315deg, rgba(16, 138, 237, 0.22), transparent 50%),
-    rgba(255, 255, 255, 0.014);
-  clip-path: polygon(10% 18%, 68% 0, 96% 52%, 48% 100%, 0 64%);
-  opacity: 0.44;
-  box-shadow: 0 0 70px rgba(255, 106, 4, 0.1);
-}
-
-.brand-plane:nth-of-type(1) {
-  transform: rotateY(30deg) rotateX(16deg) translateZ(18px);
-}
-
-.brand-plane:nth-of-type(2) {
-  transform: rotateY(-28deg) rotateX(-14deg) translateZ(-32px);
-}
-
-.brand-plane:nth-of-type(3) {
-  transform: rotateZ(82deg) rotateY(26deg) translateZ(4px) scaleX(0.4);
-}
-
-.brand-plane:nth-of-type(4) {
-  inset: 36%;
-  transform: rotateZ(-18deg) rotateY(44deg) translateZ(46px) scaleX(0.3);
-  background: linear-gradient(135deg, rgba(244, 241, 234, 0.42), transparent 62%);
+.hero-three-canvas {
+  display: block;
+  height: 100%;
+  width: 100%;
+  filter: blur(0.2px) saturate(1.05);
 }
 
 .hero-ray {
